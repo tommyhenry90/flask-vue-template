@@ -1,0 +1,10 @@
+COMP
+__pycache__
+.DS_Store
+venv
+*.pyc
+# Editor folderes
+.idea
+.vscode
+# Frontend
+node_modules
